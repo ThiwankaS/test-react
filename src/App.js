@@ -5,11 +5,11 @@ function MyInfo() {
     <div>
       <h1 className='Heading'>Thiwanka Somachandra</h1>
       <p className='TagLine'>I want to Learn and Master Full Stack Web Development</p>
-      <ul className='List'>
+      <ol className='List'>
         <li>Norway</li>
         <li>Germany</li>
         <li>Switzerland</li>
-      </ul>
+      </ol>
     </div>
   )
   }
