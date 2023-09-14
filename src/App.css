@@ -20,10 +20,15 @@
 }
 
 .List{
-    list-style:circle;
     padding: 10;
     margin: 10;
     display: flex;
     flex-wrap:nowrap;
     justify-content: center;
+}
+
+ol li {
+  list-style: circle;
+  position: relative;
+  padding: 3px 0 2px 25px;
 }
