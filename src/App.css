@@ -24,6 +24,6 @@
     flex-wrap:nowrap;
     justify-content: center;
     list-style: circle;
-  position: relative;
-  padding: 3px 0 2px 25px;
+    position: relative;
+    padding: 3px 0 2px 25px;
 }
